@@ -14,6 +14,8 @@ HackerRank; встановлення та налаштування Git, SSH-кл
 ![image (3).jpg](image%20%283%29.jpg)
 ![image (4).jpg](image%20%284%29.jpg)
 ![image (5).jpg](image%20%285%29.jpg)
+<img width="1024" height="257" alt="image" src="https://github.com/user-attachments/assets/41e949d9-b081-44a7-a5ed-c87d3d34f067" />
+
 
 2. Опис проблем та їх усунення:
 
